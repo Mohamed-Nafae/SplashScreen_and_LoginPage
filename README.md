@@ -63,3 +63,5 @@ lib/
 assets/
 └── images/               # App logos and background assets
 ```
+---
+** In the End, I hope you find this project helpful for your Flutter development journey! Feel free to use the code as a template for your own applications.**
