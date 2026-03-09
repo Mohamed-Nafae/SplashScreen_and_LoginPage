@@ -8,7 +8,7 @@ A beautiful and responsive Flutter application demonstrating a professional user
 
 | Splash Screen | Login Page |
 | :---: | :---: |
-| <img src="screenshots/splash.png" width="280" alt="Splash Screen"> | <img src="screenshots/login.png" width="280" alt="Login Page"> |
+| <img src="ScreenShots/Screenshot_2026-03-08-23-50-40-085_com.example.player_market.jpg" width="400" alt="Splash Screen"> | <img src="ScreenShots/Screenshot_2026-03-08-23-50-43-945_com.example.player_market.jpg" width="400" alt="Login Page"> |
 
 ---
 
