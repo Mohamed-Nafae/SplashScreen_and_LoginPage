@@ -38,10 +38,10 @@ A beautiful and responsive Flutter application demonstrating a professional user
 ### Installation & Run
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Mohamed-Nafae/SplashScreen_and_LoginPage.git
-   Navigate to the project folder
-   ```
+```bash
+git clone https://github.com/Mohamed-Nafae/SplashScreen_and_LoginPage.git
+Navigate to the project folder
+```
 2. **Navigate to the project folder**
 ```bash
 cd SplashScreen_and_LoginPage
