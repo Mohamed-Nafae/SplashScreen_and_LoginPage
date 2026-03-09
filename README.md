@@ -2,7 +2,6 @@
 
 A beautiful and responsive Flutter application demonstrating a professional user onboarding flow. This project features a custom-timed Splash Screen followed by a modern, validated Login interface.
 
----
 
 ## 📸 Screenshots
 
@@ -10,7 +9,6 @@ A beautiful and responsive Flutter application demonstrating a professional user
 | :---: | :---: |
 | <img src="ScreenShots/Screenshot_2026-03-08-23-50-40-085_com.example.player_market.jpg" width="400" alt="Splash Screen"> | <img src="ScreenShots/Screenshot_2026-03-08-23-50-43-945_com.example.player_market.jpg" width="400" alt="Login Page"> |
 
----
 
 ## ✨ Features
 
@@ -40,7 +38,6 @@ A beautiful and responsive Flutter application demonstrating a professional user
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Mohamed-Nafae/SplashScreen_and_LoginPage.git
-Navigate to the project folder
 ```
 2. **Navigate to the project folder**
 ```bash
